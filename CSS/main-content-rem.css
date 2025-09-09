@@ -99,9 +99,6 @@
   .header__login .login:hover {
     transform: scale(1.04);
   }
-  /* FIM HOVER */
-  
-  /* FIM HEADER */
   
   /* PLAYLIST */
   .playlist-container {
@@ -147,9 +144,9 @@
   /* FIM SCROLL */
   
   .offer__list-item {
-    display: grid; /* define o modelo de layout do elemento como uma grade */
+    display: grid; 
     justify-items: center;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;  /* número de colunas na grade e a largura de cada coluna */
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;  
     gap: 1rem;
     margin-bottom: 1rem;
   }
@@ -175,5 +172,4 @@
     background-color: rgb(0, 100, 80);
   }
   
-  /* Restante do seu código permanece igual */
   

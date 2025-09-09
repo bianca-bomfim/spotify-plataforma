@@ -1,6 +1,5 @@
 @media screen and (max-width: 1015px) {
   .header__search {
-    /* display: none !important; */
     width: auto !important;
     display: none;
   }
@@ -21,8 +20,8 @@
   }
 
   .playlist-container {
-    width: 100%; /* Ocupa toda a largura disponível */
-    height: auto; /* Altura automática, ajusta conforme o conteúdo */
+    width: 100%; 
+    height: auto; 
   }
 
   .sidebar {
