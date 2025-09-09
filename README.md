@@ -2,9 +2,6 @@
 
 Este projeto foi desenvolvido como parte da segunda edição da Imersão Front-End da Alura. O objetivo foi recriar a interface do Spotify e integrá-la a uma API, permitindo pesquisar artistas e músicas diretamente na aplicação.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/bianca-bomfim/amigo-secreto)
-![GitHub stars](https://img.shields.io/github/stars/bianca-bomfim/amigo-secreto?style=social)
-
 ---
 
 ## 📌 Índice
